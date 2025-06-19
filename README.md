@@ -47,6 +47,18 @@ python translator.py
 
 I’m documenting my #100DaysOfCode journey with real-world Python projects.
 Let’s grow together — follow, connect, and code along!
-	•	📸 Instagram: @shiroi_27
-	•	🐦 Twitter: @shiroi_27
-	•	💼 LinkedIn: Shwet Kaushal Mishra
+	• 🐍 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
+        • 💼 [GitHub: shiroi27](https://github.com/shiroi27)
+        • 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
+
+⸻
+
+📜 License
+
+This project is open-source and free to use under the MIT License.
+
+⸻
+
+🏷️ Tags
+
+#Python #Tkinter #TranslatorApp #TextToSpeech #gTTS #DeepTranslator #100DaysOfCode
