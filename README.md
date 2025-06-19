@@ -1,6 +1,6 @@
 **📸 Preview**
 
-![App Preview](https://github.com/user-attachments/assets/1e76e2ab-06cd-4462-af66-817786d56b5b)!
+![App Preview](https://github.com/user-attachments/assets/1e76e2ab-06cd-4462-af66-817786d56b5b)
 
 ---
 
@@ -37,7 +37,7 @@ pip install deep-translator
 ```
 3. Run the program:
 ```bash
-python translator.py
+python translator2.py
 ```
 ✅ That’s it! The app will launch in a window and you’re ready to translate and speak.
 
