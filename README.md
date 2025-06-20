@@ -40,6 +40,7 @@ pip install deep-translator
 ```bash
 python translator2.py
 ```
+
 ✅ That’s it! The app will launch in a window and you’re ready to translate and speak.
 
 ⸻
