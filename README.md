@@ -28,13 +28,14 @@ I built this from scratch with a colorful, clean GUI and added smooth functional
 ## 🛠️ How to Run
 
 1. Make sure you have **Python 3.11** installed.
-2. Install required libraries:
+2. Install required libraries :
 
 ```bash
 pip install tkinter
 pip install gTTS
 pip install deep-translator
 ```
+
 3. Run the program:
 ```bash
 python translator2.py
