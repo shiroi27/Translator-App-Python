@@ -49,9 +49,9 @@ python translator2.py
 
 I’m documenting my #100DaysOfCode journey with real-world Python projects.
 Let’s grow together — follow, connect, and code along!
-	• 🐍 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
-        • 💼 [GitHub: shiroi27](https://github.com/shiroi27)
-        • 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
+            - 📸 [Instagram: @_shiroi_27_](https://instagram.com/_shiroi_27_)
+            - 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
+            - 💼 [LinkedIn: YourLinkedInURL](https://linkedin.com/in/shiroi27)
 
 ⸻
 
